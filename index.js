@@ -7,7 +7,9 @@ const config = {
 	semi: true,
 	bracketSpacing: true,
 	bracketSameLine: true,
+	jsxBracketSameLine: true,
 	arrowParens: "always",
+	endOfLine: "lf",
 };
 
 export default config;
